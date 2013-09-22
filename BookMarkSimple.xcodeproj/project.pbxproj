@@ -54,7 +54,7 @@
 		4323A83F17EF6D7600F26596 /* BookMarkSimpleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BookMarkSimpleTests-Info.plist"; sourceTree = "<group>"; };
 		4323A84117EF6D7600F26596 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4323A84317EF6D7600F26596 /* BookMarkSimpleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BookMarkSimpleTests.m; sourceTree = "<group>"; };
-		4323A84D17EF6EFE00F26596 /* bookmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bookmark.png; path = ../../../Pictures/bookmark.png; sourceTree = "<group>"; };
+		4323A84D17EF6EFE00F26596 /* bookmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bookmark.png; path = BookMarkSimple/bookmark.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -465,6 +465,7 @@
 				4323A84917EF6D7600F26596 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4323A84A17EF6D7600F26596 /* Build configuration list for PBXNativeTarget "BookMarkSimpleTests" */ = {
 			isa = XCConfigurationList;
@@ -473,6 +474,7 @@
 				4323A84C17EF6D7600F26596 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
