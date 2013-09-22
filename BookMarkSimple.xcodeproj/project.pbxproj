@@ -21,6 +21,7 @@
 		4323A83A17EF6D7500F26596 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4323A81C17EF6D7500F26596 /* UIKit.framework */; };
 		4323A84217EF6D7600F26596 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4323A84017EF6D7600F26596 /* InfoPlist.strings */; };
 		4323A84417EF6D7600F26596 /* BookMarkSimpleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4323A84317EF6D7600F26596 /* BookMarkSimpleTests.m */; };
+		4323A84E17EF6EFE00F26596 /* bookmark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4323A84D17EF6EFE00F26596 /* bookmark.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		4323A83F17EF6D7600F26596 /* BookMarkSimpleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BookMarkSimpleTests-Info.plist"; sourceTree = "<group>"; };
 		4323A84117EF6D7600F26596 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4323A84317EF6D7600F26596 /* BookMarkSimpleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BookMarkSimpleTests.m; sourceTree = "<group>"; };
+		4323A84D17EF6EFE00F26596 /* bookmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bookmark.png; path = ../../../Pictures/bookmark.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		4323A80C17EF6D7500F26596 = {
 			isa = PBXGroup;
 			children = (
+				4323A84D17EF6EFE00F26596 /* bookmark.png */,
 				4323A81E17EF6D7500F26596 /* BookMarkSimple */,
 				4323A83D17EF6D7500F26596 /* BookMarkSimpleTests */,
 				4323A81717EF6D7500F26596 /* Frameworks */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4323A83117EF6D7500F26596 /* Images.xcassets in Resources */,
+				4323A84E17EF6EFE00F26596 /* bookmark.png in Resources */,
 				4323A82317EF6D7500F26596 /* InfoPlist.strings in Resources */,
 				4323A82C17EF6D7500F26596 /* Main.storyboard in Resources */,
 			);
